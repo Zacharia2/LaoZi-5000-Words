@@ -23,11 +23,13 @@
 
 然后百度万国码得到可复制的字，百度字可以得到具体释义。
 
-- 汉典：https://www.zdic.net/
+- 汉典：https://www.zdic.net/  https://www.zdic.net/zd/bs/
 - 古今文字集成：http://www.ccamc.co/index.php?tti=1
-- 中华字典：https://www.zhonghuazidian.com/
+- 中华字典：https://www.zhonghuazidian.com/  
 
 电脑上如何输入隶定后的古文字生僻字？https://www.zhihu.com/question/292188213
 
 
 1. 三点水的盅：U+30712，叶典，同“冲”。
+2. 𨓚：叶典同“税”字。
+3. 𦵕，中类似互的字中间加一横。
