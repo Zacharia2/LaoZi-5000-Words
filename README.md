@@ -10,6 +10,18 @@
 
 我的想法是，先放一起再说，像玩一样，拼一起就可以了，想起来就按照自己的理解给队列优先级`{，，，}`中的文字排排序.使用标记做做删减增加。那种有利有据就从标记中拿出来成为正文。这样比对当前版本，那些句子是多的，那些是少的，那些字优先较高，那些字优先较低一目了然。
 
+### 道德经GitHub相关仓库链接
+
+> 收集github中所有有价值的仓库
+> 基本上你能在github上找到的有用的老子5000言的仓库都在这里了。
+
+1. https://github.com/hailiang-wang/book-of-tao
+2. https://github.com/qiutian00/Tao-and-Teh
+3. https://github.com/jarry/daodejing
+4. https://github.com/LiangGuoBinbaixin/-
+5. https://github.com/yxsh01/tao_te_ching_learning_note/wiki/%E5%BE%B7%E7%BB%8F
+6. https://github.com/wenzionly/Tao-Te-Ching
+
 
 ## 《道德经》三个主流版本的差异
 
